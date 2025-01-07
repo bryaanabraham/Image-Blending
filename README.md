@@ -1,4 +1,7 @@
 # Getting Started
+
+*This repository is a clone of [omriav](https://github.com/omriav/blended-diffusion) with some updates*
+
 ## Installation
 1. Create the virtual environment:
 
@@ -58,4 +61,3 @@ This code borrows from [omriav](https://github.com/omriav/blended-diffusion),[CL
     year      = {2022},
     pages     = {18208-18218}
 }
-```
