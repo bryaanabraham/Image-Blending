@@ -1,0 +1,6 @@
+checkpoints/
+trials/
+CLIP/
+**/__pycache__/
+.cache/
+

@@ -1,0 +1,8 @@
+diffusers==0.23.0 
+accelerate
+torch==2.0.1 
+torchvision==0.15.2
+huggingface_hub
+requests
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+
